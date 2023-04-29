@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{1713DA92-21D7-41FD-88F4-A615257F90F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleProject.Core FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleProject PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleProject.Service FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleProject.Data FirstBuild="True" />
+</Properties>
