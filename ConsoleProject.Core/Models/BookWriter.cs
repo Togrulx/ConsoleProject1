@@ -10,6 +10,7 @@ namespace ConsoleProject.Core.Models
         public string Surname { get; set; }
         public int Age { get; set; }
         public List<Book> books;
+        public static readonly List<Book> bookWriter;
 
         public BookWriter(string name, string surname, int age)
         {

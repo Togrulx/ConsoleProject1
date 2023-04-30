@@ -1,11 +1,66 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ConsoleProject.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ConsoleProject.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleProject.Core.dll": {}
+        }
+      },
+      "ConsoleProject.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ConsoleProject.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleProject.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleProject.Data.dll": {}
+        }
+      },
+      "ConsoleProject.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ConsoleProject.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleProject.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleProject.Service.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ConsoleProject.Core/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleProject.Core/ConsoleProject.Core.csproj",
+      "msbuildProject": "../ConsoleProject.Core/ConsoleProject.Core.csproj"
+    },
+    "ConsoleProject.Data/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleProject.Data/ConsoleProject.Data.csproj",
+      "msbuildProject": "../ConsoleProject.Data/ConsoleProject.Data.csproj"
+    },
+    "ConsoleProject.Service/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleProject.Service/ConsoleProject.Service.csproj",
+      "msbuildProject": "../ConsoleProject.Service/ConsoleProject.Service.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ConsoleProject.Service >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/togrultalibov/.nuget/packages/": {}
@@ -31,7 +86,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/ConsoleProject.Service.csproj": {
+              "projectPath": "/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/ConsoleProject.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
