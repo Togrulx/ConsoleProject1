@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleProject.Data\ConsoleProject.Data.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Implimentations\" />
+    <None Remove="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Implimentations\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
 </Project>

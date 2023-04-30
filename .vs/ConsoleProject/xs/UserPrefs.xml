@@ -1,7 +1,44 @@
 ﻿<Properties StartupConfiguration="{1713DA92-21D7-41FD-88F4-A615257F90F3}|Default">
   <MonoDevelop.Ide.ItemProperties.ConsoleProject.Core FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ConsoleProject PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleProject.Service/Interfaces/IWritterService.cs">
+    <Files>
+      <File FileName="ConsoleProject.Data/Repositories/Repository.cs" Line="31" Column="1" />
+      <File FileName="ConsoleProject.Service/Interfaces/IWritterService.cs" Line="18" Column="1" />
+      <File FileName="ConsoleProject.Service/Implimentations/WritterService.cs" Line="3" Column="40" />
+      <File FileName="ConsoleProject.Data/Repositories/BookWriter/BookWriterRepo.cs" Line="7" Column="77" />
+      <File FileName="ConsoleProject.Core/Repository/IWritterRepository.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleProject" expanded="True">
+            <Node name="ConsoleProject.Core" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="ConsoleProject.Data" expanded="True">
+              <Node name="Repositories" expanded="True">
+                <Node name="BookWriter" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ConsoleProject.Service" expanded="True">
+              <Node name="Implimentations" expanded="True" />
+              <Node name="Interfaces" expanded="True">
+                <Node name="IWritterService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConsoleProject.Service FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ConsoleProject.Data FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

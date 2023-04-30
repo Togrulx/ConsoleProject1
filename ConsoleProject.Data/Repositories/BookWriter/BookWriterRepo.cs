@@ -1,11 +1,12 @@
 ﻿using System;
-namespace ConsoleProject.Data.Repositories.BookWriter
+using ConsoleProject.Core.Models;
+using ConsoleProject.Core.Repository;
+
+namespace ConsoleProject.Data.Repositories	
 {
-	public class BookWriterRepo
+    public class BookWriterRepo : Repository<BookWriter>, IWritterRepository
 	{
-		public BookWriterRepo()
-		{
-		}
+		
 	}
 }
 

@@ -11,13 +11,13 @@
     <None Remove="Models\Base\" />
     <None Remove="Enum\" />
     <None Remove="Repository\" />
-    <None Remove="Repository\Writers \" />
+    <None Remove="Repository\Writer\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Models\Base\" />
     <Folder Include="Enum\" />
     <Folder Include="Repository\" />
-    <Folder Include="Repository\Writers \" />
+    <Folder Include="Repository\Writer\" />
   </ItemGroup>
 </Project>
