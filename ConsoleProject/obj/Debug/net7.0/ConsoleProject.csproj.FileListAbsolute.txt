@@ -13,3 +13,10 @@
 /Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/obj/Debug/net7.0/ConsoleProject.pdb
 /Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/obj/Debug/net7.0/ConsoleProject.genruntimeconfig.cache
 /Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/obj/Debug/net7.0/ref/ConsoleProject.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/bin/Debug/net7.0/ConsoleProject.Core.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/bin/Debug/net7.0/ConsoleProject.Data.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/bin/Debug/net7.0/ConsoleProject.Service.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/bin/Debug/net7.0/ConsoleProject.Service.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/bin/Debug/net7.0/ConsoleProject.Core.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/bin/Debug/net7.0/ConsoleProject.Data.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject/obj/Debug/net7.0/ConsoleProject.csproj.CopyComplete

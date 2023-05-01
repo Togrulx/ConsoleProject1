@@ -1,0 +1,15 @@
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/bin/Debug/net7.0/ConsoleProject.Data.deps.json
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/bin/Debug/net7.0/ConsoleProject.Data.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/bin/Debug/net7.0/ConsoleProject.Data.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/bin/Debug/net7.0/ConsoleProject.Core.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/bin/Debug/net7.0/ConsoleProject.Core.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.csproj.CopyComplete
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/refint/ConsoleProject.Data.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ConsoleProject.Data.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Data/obj/Debug/net7.0/ref/ConsoleProject.Data.dll

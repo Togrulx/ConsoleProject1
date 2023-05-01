@@ -10,14 +10,14 @@ namespace ConsoleProject.Service.Implimentations
     {
         private readonly BookWriterRepo _repository = new BookWriterRepo();
 
-        public async Task<string> CreateAsync(int id, string name, double price, double discountPrice, BookCategory category)
+        public async Task<string> CreateAsync(int id, string name, double price, double discountPrice, BookCategory category,bool BookInStock)
         {
             Console.ForegroundColor = ConsoleColor.Red;
             BookWriter writer = await _repository.GetAsync(writerRepo => writerRepo.Id == id);
 
-            if (await ValidBooks(name, price, discountPrice) != null)
+            if (await IsValidBooks(name, price, discountPrice) != null)
             {
-                return await ValidBooks(name, price, discountPrice);
+                return await IsValidBooks(name, price, discountPrice);
             }
 
             Book book = new Book(name, price, discountPrice, category, writer);
@@ -91,9 +91,9 @@ namespace ConsoleProject.Service.Implimentations
             if (bookWriter == null)
                 return "Yazar yoxdur";
 
-            if (await ValidBooks(name, price, discountPrice) != null)
+            if (await IsValidBooks(name, price, discountPrice) != null)
             {
-                return await ValidBooks(name, price, discountPrice);
+                return await IsValidBooks(name, price, discountPrice);
             }
 
             Book book = bookWriter.books.FirstOrDefault(book => book.Id == BookId);
@@ -110,19 +110,22 @@ namespace ConsoleProject.Service.Implimentations
 
         }
 
-        public async Task<string> BuyBook(int WriterId, int BookId)
+        public async Task<string> BuyBook(int WriterId, int BookId,bool BookInStock)
         {
             Console.ForegroundColor = ConsoleColor.Red;
 
             BookWriter bookWriter = await _repository.GetAsync(writer => writer.Id == WriterId);
 
             if (bookWriter == null)
-                return null;
+                return "Yazar yoxdur";
 
             Book book = bookWriter.books.FirstOrDefault(Book => Book.Id == BookId);
 
             if (book == null)
                 return "Bu kitab stokda yoxdur";
+
+            if (book.BookInStock)
+                return "Kitab stockda yoxdur";
 
             Console.ForegroundColor = ConsoleColor.Blue;
             return "satildi";

@@ -1,0 +1,17 @@
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/bin/Debug/net7.0/ConsoleProject.Service.deps.json
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/bin/Debug/net7.0/ConsoleProject.Service.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/bin/Debug/net7.0/ConsoleProject.Service.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/bin/Debug/net7.0/ConsoleProject.Core.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/bin/Debug/net7.0/ConsoleProject.Data.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/bin/Debug/net7.0/ConsoleProject.Data.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/bin/Debug/net7.0/ConsoleProject.Core.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.csproj.CopyComplete
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/refint/ConsoleProject.Service.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ConsoleProject.Service.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Service/obj/Debug/net7.0/ref/ConsoleProject.Service.dll

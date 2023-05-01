@@ -1,0 +1,12 @@
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/bin/Debug/net7.0/ConsoleProject.Core.deps.json
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/bin/Debug/net7.0/ConsoleProject.Core.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/bin/Debug/net7.0/ConsoleProject.Core.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ConsoleProject.Core.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ConsoleProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ConsoleProject.Core.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ConsoleProject.Core.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ConsoleProject.Core.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ConsoleProject.Core.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/refint/ConsoleProject.Core.dll
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ConsoleProject.Core.pdb
+/Users/togrultalibov/Desktop/ConsoleProject/ConsoleProject.Core/obj/Debug/net7.0/ref/ConsoleProject.Core.dll

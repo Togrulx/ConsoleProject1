@@ -12,6 +12,7 @@ namespace ConsoleProject.Core.Models
         public double DiscountPrice { get; set; }
         public BookCategory Category { get; set; }
         public BookWriter Writer { get; set; }
+        public bool BookInStock { get; set; }
 
         public Book(string name,double price,double discountPrice, BookCategory category, BookWriter bookWriter)
         {
@@ -31,9 +32,9 @@ namespace ConsoleProject.Core.Models
         {
             if (DiscountPrice < Price)
             {
-                return $"Size : {Price - DiscountPrice} manat endrim edilib, Name:{Name},Price:{DiscountPrice},Category:{Category},Yazar:{Writer},DateTime:{CreatedDate},UpDate:{UpdateDate}";
+                return $"Size : {Price - DiscountPrice} manat endrim edilib, Name:{Name},Price:{DiscountPrice},Category:{Category},Yazar:{Writer},InStock{BookInStock},DateTime:{CreatedDate},UpDate:{UpdateDate}";
             }
-            return $"Name:{Name},Price:{Price},Category:{Category},Yazar:{Writer},DateTime:{CreatedDate},Update{UpdateDate}";
+            return $"Name:{Name},Price:{Price},Category:{Category},Yazar:{Writer},InStock{BookInStock},DateTime:{CreatedDate},Update{UpdateDate}";
         }
 
     }
